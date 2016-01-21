@@ -1,0 +1,6 @@
+usershare:
+  adapter: postgresql
+  database: development
+  username: postgres
+  password: dinesh 770
+  host: localhost
